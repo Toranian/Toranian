@@ -8,9 +8,12 @@ Hello! My name is Isaac Morrow, and I'm working towards becoming a computer scie
 - 📫 How to reach me: Feel free to contact me at isaacmorrowofficial@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play guitar in my free time, and I can solve any odd layered Rubik's cube!
+- 🚀 2021 Goals: Contribute more to open source, as well as try to create more projects on my free time
 
 ### My skills
 - Over 5 years experience with the Python programming language
 - Strong understanding of HTML and CSS
 - Extremely fast learner
 - Experience working with clients 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toranian)](https://github.com/anuraghazra/github-readme-stats)
