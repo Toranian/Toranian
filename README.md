@@ -14,4 +14,4 @@ Hello! My name is Isaac Morrow, and I'm working towards becoming a computer scie
 - Blockchain experience
 - Experience working with clients 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toranian)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toranian)](https://github.com/anuraghazra/github-readme-stats) -->
