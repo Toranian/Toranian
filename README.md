@@ -5,4 +5,4 @@ I've got an interest in cryptocurrencies, especially Bitcoin. Recently I've been
 
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toranian)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toranian)](https://github.com/Toranian/github-readme-stats)
