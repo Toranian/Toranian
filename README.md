@@ -2,10 +2,10 @@
 Driven second year university student working towards becoming a computer scientist at the University of Victoria.
 
 ### About me
-I've got an interest in cryptocurrencies, especially Bitcoin. As of late, I've found it hard to refuse any and all projects with others, and I'm having a blast. 
+I've got an interest in cryptocurrencies and blockchain technology, especially Bitcoin. As of late, I've found it hard to refuse any and all projects with others, and I'm having a blast. 
 
 ### What am I currently working on?
-Currently working university related projects, but I'm now working to create an autonomous robot utilizing tools like Fusion 360, Arduino, Tensorflow, OpenCV, and 3D printing.
+Currently extemely busy with school work, but I recently made a wordle clone for the terminal!
 
 ### My Projects
 I have some of my projects on GitHub pages for your viewing pleasure!
