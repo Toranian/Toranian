@@ -2,10 +2,10 @@
 Driven third year university student working towards a computer science degree with a specialization in software systems at the University of Victoria.
 
 ### About me
-I've got an interest in 3d printing and building electronics. I also love public speaking and presenting
+I've got an interest in 3d printing and building electronics. I also love public speaking and presenting!
 
 ### What am I currently working on?
-Currently extemely busy with school work, but I recently made a customizable, 3dprintable, programmable, volume knob! I also recently built the [crkbd](https://github.com/foostan/crkbd), a split ergonomic keyboard!
+Currently extemely busy with school work, but I recently made a customizable, 3dprintable, programmable, volume knob. I also recently built the [crkbd](https://github.com/foostan/crkbd), a split ergonomic keyboard!
 
 ### Some of my non programming-related skillsets
 - Creative problem solving
