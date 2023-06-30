@@ -1,11 +1,11 @@
 ## Isaac Morrow
-Driven third year university student working towards a computer science degree with a specialization in software systems at the University of Victoria.
+Driven third year university student at the University of Victoria working towards a computer science degree with a specialization in software systems at the University of Victoria.
 
 ### About me
-I've got an interest in 3d printing and building electronics. I also love public speaking and presenting!
+I love anything programming, but especially enjoy computer architecture, operating systems, website development, and hobbiest electronics. Recently I've built the (Corne keyboard)[https://github.com/foostan/crkbd] which I love to use for programming, and pairs especially well with Vim! In my freetime you'll find me playing the guitar, reading, exploring, or running!
 
 ### What am I currently working on?
-Currently extemely busy with school work, but I recently made a customizable, 3dprintable, programmable, volume knob. I also recently built the [crkbd](https://github.com/foostan/crkbd), a split ergonomic keyboard!
+I am currently working on building my website development company, [Muon Design](https://muon.design). I am also currently employed at [Science Venture](https://www.scienceventure.ca/), where I actively engage youth in learning about computer science! In particular, I work as part of [CodeMakers](https://www.cbc.ca/news/science/google-announces-project-to-get-canadian-kids-coding-1.2785348) which is a Google funded [Actua](https://actua.ca/) program.
 
 ### Some of my non programming-related skillsets
 - Creative problem solving
