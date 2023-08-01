@@ -11,7 +11,7 @@ I am currently working on building my website development company, [Muon Design]
 - Creative problem solving
 - Public speaking and speaking
 - Effective and clear communication
-- Leadership - Can effectively help unit a group or team to a common goal
+- Leadership - Can effectively help unite a group or team to a common goal
 - Requirements management - Can create relevant and unambiguous requirements to help implement a feature
 
 ### My Projects
