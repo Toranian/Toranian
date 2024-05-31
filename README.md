@@ -7,7 +7,8 @@ I'm currently employed at [Hummingbird Drones](https://www.hummingbirddrones.ca/
 Right now I am spending a lot of time using NextJS, React, TypeScript, Tailwind, and Supabase! I am also continously working on my design company, [Muon Design](https://muon.design/).
 
 ### My Projects
-Some of my programming projects.
+Some of my live programming projects.
+- [2024] Room Radar - VikeLabs Hackathon [View](https://student-housing-finder-blue.vercel.app/)
 - [2024] Numsum - Fun Sudoko-like puzzle game. [View](https://numsum.vercel.app/) 
 - [2020-Present] Campbell River & District Chamber of Commerce - Client website. [View](https://campbellriverchamber.ca/)
 - [2021] Portfolio website project for my programming class: [Website](https://toranian.github.io/portfolio-project/) | [Repository](https://github.com/Toranian/word-duels)
