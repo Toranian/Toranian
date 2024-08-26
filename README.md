@@ -3,6 +3,8 @@ Hello! I'm a fourth year student studying at the University of Victoria and work
 
 I'm currently employed at [Hummingbird Drones](https://www.hummingbirddrones.ca/) as a junior fullstack developer, where I work on an innovative mapping software, [Nova](https://www.mapnova.com/).
 
+For more about me and what I do, checkout my blog at [isaacmorrow.me](https://www.isaacmorrow.me), or the [repo for the blog](https://github.com/Toranian/go-blog).
+
 ### What am I currently working on?
 Right now I am spending a lot of time using NextJS, React, TypeScript, Tailwind, and Supabase! I am also continously working on my design company, [Muon Design](https://muon.design/).
 
