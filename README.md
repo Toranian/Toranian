@@ -1,12 +1,14 @@
 ## Isaac Morrow
-Computer Scientist with a Specialization in Software Systems from UVic
+🎓 Computer Scientist with a Specialization in Software Systems. _UVic, Sept 2020 - Dec 2024_
 
-Prev [Hummingbird Drones](https://www.hummingbirddrones.ca/) I worked as a fullstack developer on an innovative mapping software, [Nova](https://www.mapnova.com/).
+💼 Previosly employed at [Hummingbird Drones](https://www.hummingbirddrones.ca/) as a fullstack developer on an innovative mapping software, [Nova](https://www.mapnova.com/).
+
+🚀 CEO of [Muon Design](https://muon.design/), a modern digital agency helping small business on Vancouver Island.
+
+🌱 Currently helping develop [Scrybe](https://www.scrybequill.com/), an AI TTRPG recap tool.
+
 
 For more about me and what I do, checkout my blog at [isaacmorrow.me](https://www.isaacmorrow.me), or the [repo for the blog](https://github.com/Toranian/go-blog).
-
-### What am I currently working on?
-Right now I am spending a lot of time using NextJS, React, TypeScript, Tailwind, and Supabase! I am also continously working on my design company, [Muon Design](https://muon.design/).
 
 ### My Projects
 Some of my live programming projects.
