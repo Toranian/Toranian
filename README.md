@@ -1,7 +1,7 @@
 ## Isaac Morrow
-Hello! I'm a fourth year student studying at the University of Victoria and working towards a computer science degree with a specialization in software systems. 
+Computer Scientist with a Specialization in Software Systems from UVic
 
-I'm currently employed at [Hummingbird Drones](https://www.hummingbirddrones.ca/) as a junior fullstack developer, where I work on an innovative mapping software, [Nova](https://www.mapnova.com/).
+Prev [Hummingbird Drones](https://www.hummingbirddrones.ca/) I worked as a fullstack developer on an innovative mapping software, [Nova](https://www.mapnova.com/).
 
 For more about me and what I do, checkout my blog at [isaacmorrow.me](https://www.isaacmorrow.me), or the [repo for the blog](https://github.com/Toranian/go-blog).
 
