@@ -16,6 +16,6 @@ Some of my live programming projects.
 - [2024] Numsum - Fun Sudoko-like puzzle game. [View](https://numsum.vercel.app/) 
 - [2020-Present] Campbell River & District Chamber of Commerce - Client website. [View](https://campbellriverchamber.ca/)
 - [2021] Portfolio website project for my programming class: [Website](https://toranian.github.io/portfolio-project/) | [Repository](https://github.com/Toranian/word-duels)
-- [2021] UVic Engineering Competition - Typing based game: [Webiste](https://toranian.github.io/word-duels/) | [Repository](https://github.com/Toranian/portfolio-project)
+- [2021] UVic Engineering Competition - Typing based game: [Website](https://toranian.github.io/word-duels/) | [Repository](https://github.com/Toranian/portfolio-project)
 
 
