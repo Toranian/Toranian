@@ -1,7 +1,7 @@
 ## Isaac Morrow - Fullstack Developer
 🎓 Computer Scientist with a Specialization in Software Systems. _UVic, Sept 2020 - Dec 2024_
 
-💼 Previosly employed at [Hummingbird Drones](https://www.hummingbirddrones.ca/) as a fullstack developer on an innovative mapping software, [Nova](https://www.mapnova.com/).
+💼 Previously employed at [Hummingbird Drones](https://www.hummingbirddrones.ca/) as a fullstack developer on an innovative mapping software, [Nova](https://www.mapnova.com/).
 
 🚀 CEO of [Muon Design](https://muon.design/), a modern digital agency helping small business on Vancouver Island.
 
