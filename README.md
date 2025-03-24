@@ -12,6 +12,7 @@ For more about me and what I do, checkout my blog at [isaacmorrow.me](https://ww
 
 ### My Projects
 Some of my live programming projects.
+- [2025] Flappy Bird Neural Network Evolution [Repo](https://github.com/Toranian/ml-flappy-bird)
 - [2023-Present] Muon Design - Digital Agency Website [Website](https://muon.design/)
 - [2024-2025] Portfolio website & blog: [Website](https://www.isaacmorrow.me) | [Repository](https://github.com/Toranian/go-blog)
 - [2024] [Gold River Curling Club](https://goldrivercurlingclub.ca/)
