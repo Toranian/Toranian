@@ -8,8 +8,7 @@
 🌱 Currently helping develop [Scrybe](https://www.scrybequill.com/), an AI TTRPG recap tool.
 
 
-For more about me and what I do, checkout my blog at [isaacmorrow.me](https://www.isaacmorrow.me), or the [repo for the blog](https://github.com/Toranian/go-blog).
-
+For more about me and what I do, checkout my blog at [isaacmorrow.me](https://isaacmorrow.me).
 ### My Projects
 Some of my live programming projects.
 - [2025] Flappy Bird Neural Network Evolution [Repo](https://github.com/Toranian/ml-flappy-bird)
